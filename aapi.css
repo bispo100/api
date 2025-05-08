@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    color:brown;
+    text-align-last: center;
+
+}
+.btn_pegar_fatos{
+    color:blueviolet;
+    background-color: blue;
+    font-size: 30px;
+}
